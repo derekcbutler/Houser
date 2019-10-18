@@ -1,0 +1,49 @@
+#body {
+    background-color: #E5F4EC;
+    width: 75vw;
+    height: 80vh;
+    margin-left: 10vw;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.cancel {
+    background-color: #FEC2C2;
+    border: none;
+    padding: 3px;
+
+}
+
+.input-boxes {
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px
+}
+
+.name {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    font-weight: 600;
+
+
+}
+.title1 {
+    display: flex;
+    justify-content: left;
+    padding: 10px 0 0 0;
+    margin-left: 6px;
+    font-size: 20px;
+    margin-top: 10px;
+
+
+}
